@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-27 12:58+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Henryk Plötz <henryk@ploetzli.ch>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: byro_cnss/__init__.py:10
+msgid "byro CNSS plugin"
+msgstr "byro CNSS-Plugin"
+
+#: byro_cnss/__init__.py:12
+msgid "Byro plugin for CNSS (Clausewitz-Netzwerk für Strategische Studien e.V.)"
+msgstr "Byro-Plugin für das Clausewitz-Netzwerk für Strategische Studien e.V. (CNSS)"
+
+#: byro_cnss/models.py:7
+msgid "CNSS profile"
+msgstr "CNSS-Profil"
+
+#: byro_cnss/models.py:18
+msgid "Title"
+msgstr "Titel"
+
+#: byro_cnss/models.py:24
+msgid "Occupation"
+msgstr "Beruf"
+
+#: byro_cnss/models.py:29
+msgid "Occupational history"
+msgstr "Beruflicher Werdegang"
+
+#: byro_cnss/signals.py:10
+msgid ""
+"Their additional information is:\n"
+"\n"
+"Title:                {{cnss.title}}\n"
+"Occupation:           {{cnss.occupation}}\n"
+"Occupational history: {{cnss.occupational_history}}\n"
+"\n"
+msgstr ""
+"Seine zusätzlichen Informationen sind:\n"
+"\n"
+"Titel:       {{cnss.title}}\n"
+"Beruf:       {{cnss.occupation}}\n"
+"Beruflicher\n"
+"  Werdegang: {{cnss.occupational_history}}\n"
+"\n"
+
+#~ msgid "Memberpage settings"
+#~ msgstr "Einstellungen für \"Memberpage\"-Plugin"
