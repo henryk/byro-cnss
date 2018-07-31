@@ -13,4 +13,4 @@ Title:                {cnss.title}
 Occupation:           {cnss.occupation}
 Occupational history: {cnss.occupational_history}
 
-'''.format(cnss=sender.profile_cnss))
+''').format(cnss=sender.profile_cnss)
